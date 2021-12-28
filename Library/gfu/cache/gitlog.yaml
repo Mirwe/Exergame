@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-12-28T11:56:08.897+01:00
+  initializedAtString: 2021-12-28T11:55:31.076+01:00
+  log:
+  - commitID: 0f6ae7ab4a4a2f738b52a2112bfd5c5ba72d82bf
+    mergeA: 
+    mergeB: 
+    authorName: Luca Mirenda
+    authorEmail: mirenda_luca@yahoo.com
+    commitEmail: mirenda_luca@yahoo.com
+    commitName: Luca Mirenda
+    summary: Initial commit
+    description: 
+    timeString: 2021-12-28T10:53:53.000+01:00
+    commitTimeString: 2021-12-28T10:53:53.000+01:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\miren\Progetto STHCI\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\miren\Progetto STHCI\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: C:\Users\miren\Progetto STHCI\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
